@@ -6,7 +6,6 @@
 
 Repositório responsável pelas demos realizadas durante o evento Global Azure Bootcamp, sobre: **Uso da Linguagem Natural com Azure & Microsoft Bot Framework** [AQUI](https://bit.ly/2qR9GQZ)
 
-
 ## Recursos Utilizados no Desenvolvimento da Aplicação: :rocket:
 
 Para realizar as demos dessa série, se faz necessário instalar os seguintes programas:
@@ -19,7 +18,6 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 * Instalar globalmente o node-gyp - [DOCUMENTAÇÃO PARA INSTALAÇÃO DE MANEIRA CORRETA AQUI](https://github.com/nodejs/node-gyp)
 
 * Cadastro no site LUIS: https://www.luis.ai/
-
 * Cadastro no site Azure: https://azure.microsoft.com/pt-br/services/bot-service/
 
 ## Dúvidas?! :triangular_flag_on_post:
