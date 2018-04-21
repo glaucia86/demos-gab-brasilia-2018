@@ -18,6 +18,10 @@ Para realizar as demos dessa série, se faz necessário instalar os seguintes pr
 * Instalar a versão Python 2.x - [DOWNLOAD AQUI](https://www.python.org/downloads/)
 * Instalar globalmente o node-gyp - [DOCUMENTAÇÃO PARA INSTALAÇÃO DE MANEIRA CORRETA AQUI](https://github.com/nodejs/node-gyp)
 
+* Cadastro no site LUIS: https://www.luis.ai/
+
+* Cadastro no site Azure: https://azure.microsoft.com/pt-br/services/bot-service/
+
 ## Dúvidas?! :triangular_flag_on_post:
 
 Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente bastam criar uma Issue aqui no GitHub que estarei respondendo a vocês!! :heart: :heart: :heart: :blush:
